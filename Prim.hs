@@ -1,6 +1,5 @@
 module Prim where
 
-import qualified Data.Set as Set
 import System.Random
 import Control.Monad
 
